@@ -1,8 +1,10 @@
 ### About
 
 🧡 Backend developer at Zoop
+- What we build at Zoop: https://docs.zoop.co/v2-banking/reference/post_v2-marketplaces-marketplace-id-banking-accreditation-holders
 
-🌈 Tech Lead at Nohs Somos
+🌈 Tech Lead at Nohs Somos 
+- What we build at Nohs Somos: https://mapalgbti.nohssomos.com.br/
 
 <a href="https://github.com/johncurcio">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johncurcio&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave" />
