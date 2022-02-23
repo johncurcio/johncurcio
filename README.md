@@ -39,21 +39,22 @@ Which may not seem like a lot, but I'm very proud of it. 💙 [Except for how mu
 
 ### 🧡 Zoop 🧡 
 
-In summary, we deal with all of the bureaucracy required for a business to become a financial instituition in Brazil, and provide them with APIs that make the process as hassle-free as possible 
+We deal with all of the bureaucracy required for a business to become a financial instituition in Brazil, and provide them with APIs that make the process as hassle-free as possible.
 
 - [You can see some of the endpoints I actually helped create here](https://docs.zoop.co/v2-banking/reference/post_v2-marketplaces-marketplace-id-banking-accreditation-holders
-). They focus on onboarding businesses and ensuring their compliance to KYC regulations. 
+). My focus is mostly on onboarding businesses and ensuring their compliance to KYC regulations. 
 
-#### Our stack:
+#### These endpoints are built on top of:
 
 <div align="center">
  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=python&logoColor=white">
  <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=python&logoColor=white">
  <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=python&logoColor=white">
  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=python&logoColor=white">
+ <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=python&logoColor=white">
+ <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ### 🌈 Nohs Somos 🌈
@@ -65,15 +66,31 @@ We dream of making the lives of LGBTI+ people in Brazil safer using technology, 
 #### This map was built on top of:
 
 <div align="center">
-   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-
-   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-   <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=python&logoColor=white">
-   <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whitee">
-  
-   <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <table>
+    <thead>
+      <th>frontend</th>
+      <th>backend</th>
+      <th>infra</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+         <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+         <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+         <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+        </td>
+        <td>
+         <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+         <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=python&logoColor=white">
+         <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whitee">
+        </td>
+        <td>
+         <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+         <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
