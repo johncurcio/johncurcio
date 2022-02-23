@@ -22,7 +22,7 @@ Which may not seem like a lot, but I'm very proud of it. 💙 [Except for how mu
 
 ### 🧡 Zoop 🧡 
 
-This weird little company that implements all of the bureaucracy required to become a financial instituition in Brazil so that our clients don't have to worry about it
+In summary, we deal with all of the bureaucracy required for a business to become a financial instituition in Brazil, and provide them with APIs that make the process as hassle-free as possible 
 
 - [You can see some of the endpoints I actually helped create here](https://docs.zoop.co/v2-banking/reference/post_v2-marketplaces-marketplace-id-banking-accreditation-holders
 ). They focus on onboarding businesses and ensuring their compliance to KYC regulations. 
