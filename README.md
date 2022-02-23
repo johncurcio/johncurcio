@@ -1,14 +1,20 @@
-
 <div align="center">
-  <h2>Hi, there 🤙 I'm John and this a little bit about me</h2>
+  <h2>Hi, there 🏳️‍🌈 I'm John and this a little bit about me</h2>
 </div>
 <br/>
 
-<div align="center">
+🥇 **Don't take me seriously**. I'd like to think anyone can tell when I'm sarcastic.
+
+
+## 🔖 This is my social media presence:
+
+<div align="center">  
   <a href="https://www.linkedin.com/in/joaocurcio" target="_blank">
    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+More like absence, amirite.
 
 ## 🖥️ This is how much I code: 
 
@@ -70,5 +76,7 @@ We dream of making the lives of LGBTI+ people in Brazil safer using technology, 
    <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
 
+
+## 📈 I like graphs:
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johncurcio&theme=dracula" />
