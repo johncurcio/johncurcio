@@ -18,7 +18,7 @@ Which may not seem like a lot, but I'm very proud of it. 💙 [Except for how mu
 🖼️ [I looove javascript](https://raw.githubusercontent.com/johncurcio/images/master/meme.jpg).
 
   
-## 💼 This is where I'm currently working
+## 💼 This is where I'm currently working at
 
 ### 🧡 Zoop 🧡 
 
