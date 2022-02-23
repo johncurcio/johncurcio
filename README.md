@@ -15,7 +15,7 @@ Which may not seem like a lot, but I'm very proud of it. 💙 [Except for how mu
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncurcio&hide=css,html,javascript,clojure&layout=compact&theme=synthwave" />
 </a><p></p>
 
-🖼️ [I looove javascript](https://raw.githubusercontent.com/johncurcio/images/master/meme.jpg).
+🖼️ [I do not care for javascript](https://raw.githubusercontent.com/johncurcio/images/master/meme.jpg).
 
   
 ## 💼 This is where I'm currently working at
