@@ -14,12 +14,17 @@
 
 Which may not seem like a lot, but I'm very proud of it. 💙 [Except for how much I actually code in javascript](https://github-readme-stats.vercel.app/api/top-langs/?username=johncurcio&hide=css,html,clojure&layout=compact&theme=synthwave). 
 
-<a href="https://github.com/johncurcio">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johncurcio&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave" />
-</a>
-<a href="https://github.com/johncurcio">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncurcio&hide=css,html,javascript,clojure&layout=compact&theme=synthwave" />
-</a><p></p>
+<div align="center">
+  <a href="https://github.com/johncurcio">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johncurcio&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave" />
+  </a>
+  <a href="https://github.com/johncurcio">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncurcio&hide=css,html,javascript,clojure&layout=compact&theme=synthwave" />
+  </a>
+</div>
+ <p></p>
+
+
 
 🖼️ [I do not care for javascript](https://raw.githubusercontent.com/johncurcio/images/master/meme.jpg).
 
@@ -38,8 +43,10 @@ In summary, we deal with all of the bureaucracy required for a business to becom
 <div align="center">
  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=python&logoColor=white">
+ <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=python&logoColor=white">
  <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=python&logoColor=white">
+ <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
@@ -62,3 +69,6 @@ We dream of making the lives of LGBTI+ people in Brazil safer using technology, 
   
    <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
+
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johncurcio&theme=dracula" />
