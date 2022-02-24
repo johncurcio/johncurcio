@@ -14,7 +14,7 @@
   </a>
 </div>
 
-More like absence, amirite.
+More like absence.
 
 ## 🖥️ This is how much I code: 
 
