@@ -3,9 +3,6 @@
 </div>
 <br/>
 
-🥇 **Don't take me seriously**. I'd like to think anyone can tell when I'm sarcastic.
-
-
 ## 🔖 This is my social media presence:
 
 <div align="center">  
