@@ -88,6 +88,6 @@ We dream of making the lives of LGBTI+ people in Brazil safer using technology, 
 </div>
 
 
-## 📈 I like graphs:
+## 📈 These are some stats:
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johncurcio&theme=dracula" />
