@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-## 🔖 This is my social media presence:
+## 🔖 This is my social media absence:
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/joaocurcio" target="_blank">
@@ -11,7 +11,6 @@
   </a>
 </div>
 
-More like absence.
 
 ## 🖥️ This is how much I code: 
 
@@ -27,16 +26,14 @@ Which may not seem like a lot, but I'm very proud of it. 💙 [Except for how mu
 </div>
  <p></p>
 
-
-
-🖼️ [I do not care for javascript](https://raw.githubusercontent.com/johncurcio/images/master/meme.jpg).
-
   
-## 💼 This is where I'm currently working at
+## 💼 These are my jobs
+
+Yes, I have two jobs.
 
 ### 🧡 Zoop 🧡 
 
-We deal with all of the bureaucracy required for a business to become a financial instituition in Brazil, and provide them with APIs that make the process as hassle-free as possible.
+We deal with all of the bureaucracy required for a business to become a financial instituition in Brazil and provide them with APIs that make the process as hassle-free as possible.
 
 - [You can see some of the endpoints I actually helped create here](https://docs.zoop.co/v2-banking/reference/post_v2-marketplaces-marketplace-id-banking-accreditation-holders
 ). My focus is mostly on onboarding businesses and ensuring their compliance to KYC regulations. 
